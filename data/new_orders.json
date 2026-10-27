@@ -1,0 +1,4 @@
+[
+  {"order_id":"DEMO-LOW","delivered_on":"2026-10-01","discount_rate":0.05,"delivery_delay_days":0,"fragile":0,"item_price_eur":40},
+  {"order_id":"DEMO-HIGH","delivered_on":"2026-10-01","discount_rate":0.50,"delivery_delay_days":8,"fragile":1,"item_price_eur":220}
+]

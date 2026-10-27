@@ -1,0 +1,8750 @@
+[
+  {
+    "order_id": "O0001",
+    "delivered_on": "2026-01-01",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 111,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0002",
+    "delivered_on": "2026-01-01",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 230,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0003",
+    "delivered_on": "2026-01-01",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 134,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0004",
+    "delivered_on": "2026-01-01",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 103,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0005",
+    "delivered_on": "2026-01-02",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 203,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0006",
+    "delivered_on": "2026-01-02",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0007",
+    "delivered_on": "2026-01-02",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 292,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0008",
+    "delivered_on": "2026-01-02",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 214,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0009",
+    "delivered_on": "2026-01-03",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 211,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0010",
+    "delivered_on": "2026-01-03",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 162,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0011",
+    "delivered_on": "2026-01-03",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 278,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0012",
+    "delivered_on": "2026-01-03",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 45,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0013",
+    "delivered_on": "2026-01-04",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 257,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0014",
+    "delivered_on": "2026-01-04",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 111,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0015",
+    "delivered_on": "2026-01-04",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0016",
+    "delivered_on": "2026-01-04",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 221,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0017",
+    "delivered_on": "2026-01-05",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 220,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0018",
+    "delivered_on": "2026-01-05",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 74,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0019",
+    "delivered_on": "2026-01-05",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 100,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0020",
+    "delivered_on": "2026-01-05",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 52,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0021",
+    "delivered_on": "2026-01-06",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 163,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0022",
+    "delivered_on": "2026-01-06",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 112,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0023",
+    "delivered_on": "2026-01-06",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 185,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0024",
+    "delivered_on": "2026-01-06",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0025",
+    "delivered_on": "2026-01-07",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 226,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0026",
+    "delivered_on": "2026-01-07",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 71,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0027",
+    "delivered_on": "2026-01-07",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0028",
+    "delivered_on": "2026-01-07",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 110,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0029",
+    "delivered_on": "2026-01-08",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 105,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0030",
+    "delivered_on": "2026-01-08",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 215,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0031",
+    "delivered_on": "2026-01-08",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 172,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0032",
+    "delivered_on": "2026-01-08",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 68,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0033",
+    "delivered_on": "2026-01-09",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 118,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0034",
+    "delivered_on": "2026-01-09",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0035",
+    "delivered_on": "2026-01-09",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 236,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0036",
+    "delivered_on": "2026-01-09",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 60,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0037",
+    "delivered_on": "2026-01-10",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 236,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0038",
+    "delivered_on": "2026-01-10",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 131,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0039",
+    "delivered_on": "2026-01-10",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 25,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0040",
+    "delivered_on": "2026-01-10",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 167,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0041",
+    "delivered_on": "2026-01-11",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 244,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0042",
+    "delivered_on": "2026-01-11",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 267,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0043",
+    "delivered_on": "2026-01-11",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0044",
+    "delivered_on": "2026-01-11",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 222,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0045",
+    "delivered_on": "2026-01-12",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 197,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0046",
+    "delivered_on": "2026-01-12",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 27,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0047",
+    "delivered_on": "2026-01-12",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 177,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0048",
+    "delivered_on": "2026-01-12",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0049",
+    "delivered_on": "2026-01-13",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 222,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0050",
+    "delivered_on": "2026-01-13",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 286,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0051",
+    "delivered_on": "2026-01-13",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 253,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0052",
+    "delivered_on": "2026-01-13",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 135,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0053",
+    "delivered_on": "2026-01-14",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 221,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0054",
+    "delivered_on": "2026-01-14",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 114,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0055",
+    "delivered_on": "2026-01-14",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 74,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0056",
+    "delivered_on": "2026-01-14",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 224,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0057",
+    "delivered_on": "2026-01-15",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 111,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0058",
+    "delivered_on": "2026-01-15",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 284,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0059",
+    "delivered_on": "2026-01-15",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0060",
+    "delivered_on": "2026-01-15",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 235,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0061",
+    "delivered_on": "2026-01-16",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 299,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0062",
+    "delivered_on": "2026-01-16",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 166,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0063",
+    "delivered_on": "2026-01-16",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 46,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0064",
+    "delivered_on": "2026-01-16",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 297,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0065",
+    "delivered_on": "2026-01-17",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 46,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0066",
+    "delivered_on": "2026-01-17",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 289,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0067",
+    "delivered_on": "2026-01-17",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 25,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0068",
+    "delivered_on": "2026-01-17",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 283,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0069",
+    "delivered_on": "2026-01-18",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0070",
+    "delivered_on": "2026-01-18",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 231,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0071",
+    "delivered_on": "2026-01-18",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0072",
+    "delivered_on": "2026-01-18",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 39,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0073",
+    "delivered_on": "2026-01-19",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 18,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0074",
+    "delivered_on": "2026-01-19",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0075",
+    "delivered_on": "2026-01-19",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 237,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0076",
+    "delivered_on": "2026-01-19",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 98,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0077",
+    "delivered_on": "2026-01-20",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 86,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0078",
+    "delivered_on": "2026-01-20",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0079",
+    "delivered_on": "2026-01-20",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 239,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0080",
+    "delivered_on": "2026-01-20",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 59,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0081",
+    "delivered_on": "2026-01-21",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 166,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0082",
+    "delivered_on": "2026-01-21",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 22,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0083",
+    "delivered_on": "2026-01-21",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 118,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0084",
+    "delivered_on": "2026-01-21",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 209,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0085",
+    "delivered_on": "2026-01-22",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0086",
+    "delivered_on": "2026-01-22",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0087",
+    "delivered_on": "2026-01-22",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 274,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0088",
+    "delivered_on": "2026-01-22",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 292,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0089",
+    "delivered_on": "2026-01-23",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 161,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0090",
+    "delivered_on": "2026-01-23",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 291,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0091",
+    "delivered_on": "2026-01-23",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 234,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0092",
+    "delivered_on": "2026-01-23",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 295,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0093",
+    "delivered_on": "2026-01-24",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 210,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0094",
+    "delivered_on": "2026-01-24",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 76,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0095",
+    "delivered_on": "2026-01-24",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 275,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0096",
+    "delivered_on": "2026-01-24",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 174,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0097",
+    "delivered_on": "2026-01-25",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 299,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0098",
+    "delivered_on": "2026-01-25",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 129,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0099",
+    "delivered_on": "2026-01-25",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 223,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0100",
+    "delivered_on": "2026-01-25",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 26,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0101",
+    "delivered_on": "2026-01-26",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 61,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0102",
+    "delivered_on": "2026-01-26",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 278,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0103",
+    "delivered_on": "2026-01-26",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0104",
+    "delivered_on": "2026-01-26",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 102,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0105",
+    "delivered_on": "2026-01-27",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 256,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0106",
+    "delivered_on": "2026-01-27",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 70,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0107",
+    "delivered_on": "2026-01-27",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 279,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0108",
+    "delivered_on": "2026-01-27",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 198,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0109",
+    "delivered_on": "2026-01-28",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 125,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0110",
+    "delivered_on": "2026-01-28",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 56,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0111",
+    "delivered_on": "2026-01-28",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 294,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0112",
+    "delivered_on": "2026-01-28",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 174,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0113",
+    "delivered_on": "2026-01-29",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 221,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0114",
+    "delivered_on": "2026-01-29",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 233,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0115",
+    "delivered_on": "2026-01-29",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0116",
+    "delivered_on": "2026-01-29",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 200,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0117",
+    "delivered_on": "2026-01-30",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0118",
+    "delivered_on": "2026-01-30",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 110,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0119",
+    "delivered_on": "2026-01-30",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 117,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0120",
+    "delivered_on": "2026-01-30",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 298,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0121",
+    "delivered_on": "2026-01-31",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 65,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0122",
+    "delivered_on": "2026-01-31",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 279,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0123",
+    "delivered_on": "2026-01-31",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 136,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0124",
+    "delivered_on": "2026-01-31",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 38,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0125",
+    "delivered_on": "2026-02-01",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 213,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0126",
+    "delivered_on": "2026-02-01",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 247,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0127",
+    "delivered_on": "2026-02-01",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 81,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0128",
+    "delivered_on": "2026-02-01",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 227,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0129",
+    "delivered_on": "2026-02-02",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 64,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0130",
+    "delivered_on": "2026-02-02",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 151,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0131",
+    "delivered_on": "2026-02-02",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 265,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0132",
+    "delivered_on": "2026-02-02",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 83,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0133",
+    "delivered_on": "2026-02-03",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 182,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0134",
+    "delivered_on": "2026-02-03",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 158,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0135",
+    "delivered_on": "2026-02-03",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 81,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0136",
+    "delivered_on": "2026-02-03",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 296,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0137",
+    "delivered_on": "2026-02-04",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 240,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0138",
+    "delivered_on": "2026-02-04",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 218,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0139",
+    "delivered_on": "2026-02-04",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 36,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0140",
+    "delivered_on": "2026-02-04",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 156,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0141",
+    "delivered_on": "2026-02-05",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 114,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0142",
+    "delivered_on": "2026-02-05",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 262,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0143",
+    "delivered_on": "2026-02-05",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 33,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0144",
+    "delivered_on": "2026-02-05",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 52,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0145",
+    "delivered_on": "2026-02-06",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 81,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0146",
+    "delivered_on": "2026-02-06",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 22,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0147",
+    "delivered_on": "2026-02-06",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 70,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0148",
+    "delivered_on": "2026-02-06",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 287,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0149",
+    "delivered_on": "2026-02-07",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 96,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0150",
+    "delivered_on": "2026-02-07",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 169,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0151",
+    "delivered_on": "2026-02-07",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 142,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0152",
+    "delivered_on": "2026-02-07",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 196,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0153",
+    "delivered_on": "2026-02-08",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 235,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0154",
+    "delivered_on": "2026-02-08",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 56,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0155",
+    "delivered_on": "2026-02-08",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 78,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0156",
+    "delivered_on": "2026-02-08",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 83,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0157",
+    "delivered_on": "2026-02-09",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 151,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0158",
+    "delivered_on": "2026-02-09",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 182,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0159",
+    "delivered_on": "2026-02-09",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 81,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0160",
+    "delivered_on": "2026-02-09",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 119,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0161",
+    "delivered_on": "2026-02-10",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 287,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0162",
+    "delivered_on": "2026-02-10",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 190,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0163",
+    "delivered_on": "2026-02-10",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0164",
+    "delivered_on": "2026-02-10",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 293,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0165",
+    "delivered_on": "2026-02-11",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 244,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0166",
+    "delivered_on": "2026-02-11",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 85,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0167",
+    "delivered_on": "2026-02-11",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 113,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0168",
+    "delivered_on": "2026-02-11",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 191,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0169",
+    "delivered_on": "2026-02-12",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 95,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0170",
+    "delivered_on": "2026-02-12",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 170,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0171",
+    "delivered_on": "2026-02-12",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 256,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0172",
+    "delivered_on": "2026-02-12",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 160,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0173",
+    "delivered_on": "2026-02-13",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 185,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0174",
+    "delivered_on": "2026-02-13",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 133,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0175",
+    "delivered_on": "2026-02-13",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0176",
+    "delivered_on": "2026-02-13",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 228,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0177",
+    "delivered_on": "2026-02-14",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 278,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0178",
+    "delivered_on": "2026-02-14",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 284,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0179",
+    "delivered_on": "2026-02-14",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 65,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0180",
+    "delivered_on": "2026-02-14",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 80,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0181",
+    "delivered_on": "2026-02-15",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 139,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0182",
+    "delivered_on": "2026-02-15",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 201,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0183",
+    "delivered_on": "2026-02-15",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 37,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0184",
+    "delivered_on": "2026-02-15",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 266,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0185",
+    "delivered_on": "2026-02-16",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 247,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0186",
+    "delivered_on": "2026-02-16",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 21,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0187",
+    "delivered_on": "2026-02-16",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 44,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0188",
+    "delivered_on": "2026-02-16",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 144,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0189",
+    "delivered_on": "2026-02-17",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0190",
+    "delivered_on": "2026-02-17",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 71,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0191",
+    "delivered_on": "2026-02-17",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 96,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0192",
+    "delivered_on": "2026-02-17",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 236,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0193",
+    "delivered_on": "2026-02-18",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 110,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0194",
+    "delivered_on": "2026-02-18",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 283,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0195",
+    "delivered_on": "2026-02-18",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 247,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0196",
+    "delivered_on": "2026-02-18",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 26,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0197",
+    "delivered_on": "2026-02-19",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 65,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0198",
+    "delivered_on": "2026-02-19",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 112,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0199",
+    "delivered_on": "2026-02-19",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 138,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0200",
+    "delivered_on": "2026-02-19",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 276,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0201",
+    "delivered_on": "2026-02-20",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 264,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0202",
+    "delivered_on": "2026-02-20",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 143,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0203",
+    "delivered_on": "2026-02-20",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 148,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0204",
+    "delivered_on": "2026-02-20",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 32,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0205",
+    "delivered_on": "2026-02-21",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 273,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0206",
+    "delivered_on": "2026-02-21",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 89,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0207",
+    "delivered_on": "2026-02-21",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 142,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0208",
+    "delivered_on": "2026-02-21",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 267,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0209",
+    "delivered_on": "2026-02-22",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 199,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0210",
+    "delivered_on": "2026-02-22",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 105,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0211",
+    "delivered_on": "2026-02-22",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 135,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0212",
+    "delivered_on": "2026-02-22",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 162,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0213",
+    "delivered_on": "2026-02-23",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 157,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0214",
+    "delivered_on": "2026-02-23",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 86,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0215",
+    "delivered_on": "2026-02-23",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 130,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0216",
+    "delivered_on": "2026-02-23",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 118,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0217",
+    "delivered_on": "2026-02-24",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 156,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0218",
+    "delivered_on": "2026-02-24",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0219",
+    "delivered_on": "2026-02-24",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 84,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0220",
+    "delivered_on": "2026-02-24",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 262,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0221",
+    "delivered_on": "2026-02-25",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 146,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0222",
+    "delivered_on": "2026-02-25",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0223",
+    "delivered_on": "2026-02-25",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0224",
+    "delivered_on": "2026-02-25",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 272,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0225",
+    "delivered_on": "2026-02-26",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 95,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0226",
+    "delivered_on": "2026-02-26",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 38,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0227",
+    "delivered_on": "2026-02-26",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 169,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0228",
+    "delivered_on": "2026-02-26",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0229",
+    "delivered_on": "2026-02-27",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 269,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0230",
+    "delivered_on": "2026-02-27",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0231",
+    "delivered_on": "2026-02-27",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 274,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0232",
+    "delivered_on": "2026-02-27",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 237,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0233",
+    "delivered_on": "2026-02-28",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 78,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0234",
+    "delivered_on": "2026-02-28",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 82,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0235",
+    "delivered_on": "2026-02-28",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 48,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0236",
+    "delivered_on": "2026-02-28",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 186,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0237",
+    "delivered_on": "2026-03-01",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 78,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0238",
+    "delivered_on": "2026-03-01",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0239",
+    "delivered_on": "2026-03-01",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 29,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0240",
+    "delivered_on": "2026-03-01",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 284,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0241",
+    "delivered_on": "2026-03-02",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 60,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0242",
+    "delivered_on": "2026-03-02",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 115,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0243",
+    "delivered_on": "2026-03-02",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 215,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0244",
+    "delivered_on": "2026-03-02",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 61,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0245",
+    "delivered_on": "2026-03-03",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 115,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0246",
+    "delivered_on": "2026-03-03",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0247",
+    "delivered_on": "2026-03-03",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 292,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0248",
+    "delivered_on": "2026-03-03",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 183,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0249",
+    "delivered_on": "2026-03-04",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 230,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0250",
+    "delivered_on": "2026-03-04",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 270,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0251",
+    "delivered_on": "2026-03-04",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 217,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0252",
+    "delivered_on": "2026-03-04",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 67,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0253",
+    "delivered_on": "2026-03-05",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 135,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0254",
+    "delivered_on": "2026-03-05",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 247,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0255",
+    "delivered_on": "2026-03-05",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 230,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0256",
+    "delivered_on": "2026-03-05",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 172,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0257",
+    "delivered_on": "2026-03-06",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 263,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0258",
+    "delivered_on": "2026-03-06",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 183,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0259",
+    "delivered_on": "2026-03-06",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 204,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0260",
+    "delivered_on": "2026-03-06",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 269,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0261",
+    "delivered_on": "2026-03-07",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 68,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0262",
+    "delivered_on": "2026-03-07",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 40,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0263",
+    "delivered_on": "2026-03-07",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 266,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0264",
+    "delivered_on": "2026-03-07",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 295,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0265",
+    "delivered_on": "2026-03-08",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0266",
+    "delivered_on": "2026-03-08",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 256,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0267",
+    "delivered_on": "2026-03-08",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 119,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0268",
+    "delivered_on": "2026-03-08",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 143,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0269",
+    "delivered_on": "2026-03-09",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0270",
+    "delivered_on": "2026-03-09",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 86,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0271",
+    "delivered_on": "2026-03-09",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0272",
+    "delivered_on": "2026-03-09",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 150,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0273",
+    "delivered_on": "2026-03-10",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 184,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0274",
+    "delivered_on": "2026-03-10",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 52,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0275",
+    "delivered_on": "2026-03-10",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 237,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0276",
+    "delivered_on": "2026-03-10",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0277",
+    "delivered_on": "2026-03-11",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 248,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0278",
+    "delivered_on": "2026-03-11",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 260,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0279",
+    "delivered_on": "2026-03-11",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 207,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0280",
+    "delivered_on": "2026-03-11",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 142,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0281",
+    "delivered_on": "2026-03-12",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 52,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0282",
+    "delivered_on": "2026-03-12",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 218,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0283",
+    "delivered_on": "2026-03-12",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 202,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0284",
+    "delivered_on": "2026-03-12",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 282,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0285",
+    "delivered_on": "2026-03-13",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 140,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0286",
+    "delivered_on": "2026-03-13",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 213,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0287",
+    "delivered_on": "2026-03-13",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 45,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0288",
+    "delivered_on": "2026-03-13",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 84,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0289",
+    "delivered_on": "2026-03-14",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 166,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0290",
+    "delivered_on": "2026-03-14",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 19,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0291",
+    "delivered_on": "2026-03-14",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 36,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0292",
+    "delivered_on": "2026-03-14",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 265,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0293",
+    "delivered_on": "2026-03-15",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 153,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0294",
+    "delivered_on": "2026-03-15",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 155,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0295",
+    "delivered_on": "2026-03-15",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 77,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0296",
+    "delivered_on": "2026-03-15",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 39,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0297",
+    "delivered_on": "2026-03-16",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0298",
+    "delivered_on": "2026-03-16",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 138,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0299",
+    "delivered_on": "2026-03-16",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 33,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0300",
+    "delivered_on": "2026-03-16",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 235,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0301",
+    "delivered_on": "2026-03-17",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 212,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0302",
+    "delivered_on": "2026-03-17",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 29,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0303",
+    "delivered_on": "2026-03-17",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 213,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0304",
+    "delivered_on": "2026-03-17",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 95,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0305",
+    "delivered_on": "2026-03-18",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 241,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0306",
+    "delivered_on": "2026-03-18",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 188,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0307",
+    "delivered_on": "2026-03-18",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 281,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0308",
+    "delivered_on": "2026-03-18",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0309",
+    "delivered_on": "2026-03-19",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 258,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0310",
+    "delivered_on": "2026-03-19",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 117,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0311",
+    "delivered_on": "2026-03-19",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0312",
+    "delivered_on": "2026-03-19",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 83,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0313",
+    "delivered_on": "2026-03-20",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 285,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0314",
+    "delivered_on": "2026-03-20",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 191,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0315",
+    "delivered_on": "2026-03-20",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 187,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0316",
+    "delivered_on": "2026-03-20",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 210,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0317",
+    "delivered_on": "2026-03-21",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 114,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0318",
+    "delivered_on": "2026-03-21",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 46,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0319",
+    "delivered_on": "2026-03-21",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 277,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0320",
+    "delivered_on": "2026-03-21",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 128,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0321",
+    "delivered_on": "2026-03-22",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0322",
+    "delivered_on": "2026-03-22",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 83,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0323",
+    "delivered_on": "2026-03-22",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 90,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0324",
+    "delivered_on": "2026-03-22",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0325",
+    "delivered_on": "2026-03-23",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 158,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0326",
+    "delivered_on": "2026-03-23",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 132,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0327",
+    "delivered_on": "2026-03-23",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 175,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0328",
+    "delivered_on": "2026-03-23",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 110,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0329",
+    "delivered_on": "2026-03-24",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 138,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0330",
+    "delivered_on": "2026-03-24",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 257,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0331",
+    "delivered_on": "2026-03-24",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 246,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0332",
+    "delivered_on": "2026-03-24",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 208,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0333",
+    "delivered_on": "2026-03-25",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 141,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0334",
+    "delivered_on": "2026-03-25",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 95,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0335",
+    "delivered_on": "2026-03-25",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 47,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0336",
+    "delivered_on": "2026-03-25",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 207,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0337",
+    "delivered_on": "2026-03-26",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 88,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0338",
+    "delivered_on": "2026-03-26",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 181,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0339",
+    "delivered_on": "2026-03-26",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 44,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0340",
+    "delivered_on": "2026-03-26",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 234,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0341",
+    "delivered_on": "2026-03-27",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 102,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0342",
+    "delivered_on": "2026-03-27",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 211,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0343",
+    "delivered_on": "2026-03-27",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 49,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0344",
+    "delivered_on": "2026-03-27",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 280,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0345",
+    "delivered_on": "2026-03-28",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 270,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0346",
+    "delivered_on": "2026-03-28",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 143,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0347",
+    "delivered_on": "2026-03-28",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0348",
+    "delivered_on": "2026-03-28",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 32,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0349",
+    "delivered_on": "2026-03-29",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 209,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0350",
+    "delivered_on": "2026-03-29",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 251,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0351",
+    "delivered_on": "2026-03-29",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 170,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0352",
+    "delivered_on": "2026-03-29",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 17,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0353",
+    "delivered_on": "2026-03-30",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 197,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0354",
+    "delivered_on": "2026-03-30",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 182,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0355",
+    "delivered_on": "2026-03-30",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 234,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0356",
+    "delivered_on": "2026-03-30",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 140,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0357",
+    "delivered_on": "2026-03-31",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 45,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0358",
+    "delivered_on": "2026-03-31",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 67,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0359",
+    "delivered_on": "2026-03-31",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 236,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0360",
+    "delivered_on": "2026-03-31",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 232,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0361",
+    "delivered_on": "2026-04-01",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 32,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0362",
+    "delivered_on": "2026-04-01",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 134,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0363",
+    "delivered_on": "2026-04-01",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 274,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0364",
+    "delivered_on": "2026-04-01",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 74,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0365",
+    "delivered_on": "2026-04-02",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 232,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0366",
+    "delivered_on": "2026-04-02",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 51,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0367",
+    "delivered_on": "2026-04-02",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 209,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0368",
+    "delivered_on": "2026-04-02",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0369",
+    "delivered_on": "2026-04-03",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 61,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0370",
+    "delivered_on": "2026-04-03",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 224,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0371",
+    "delivered_on": "2026-04-03",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 124,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0372",
+    "delivered_on": "2026-04-03",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 130,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0373",
+    "delivered_on": "2026-04-04",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 218,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0374",
+    "delivered_on": "2026-04-04",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 152,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0375",
+    "delivered_on": "2026-04-04",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 213,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0376",
+    "delivered_on": "2026-04-04",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 114,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0377",
+    "delivered_on": "2026-04-05",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 185,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0378",
+    "delivered_on": "2026-04-05",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0379",
+    "delivered_on": "2026-04-05",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 129,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0380",
+    "delivered_on": "2026-04-05",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 37,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0381",
+    "delivered_on": "2026-04-06",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 139,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0382",
+    "delivered_on": "2026-04-06",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 229,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0383",
+    "delivered_on": "2026-04-06",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 149,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0384",
+    "delivered_on": "2026-04-06",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 149,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0385",
+    "delivered_on": "2026-04-07",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 23,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0386",
+    "delivered_on": "2026-04-07",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0387",
+    "delivered_on": "2026-04-07",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 159,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0388",
+    "delivered_on": "2026-04-07",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 178,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0389",
+    "delivered_on": "2026-04-08",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 18,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0390",
+    "delivered_on": "2026-04-08",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 293,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0391",
+    "delivered_on": "2026-04-08",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 32,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0392",
+    "delivered_on": "2026-04-08",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 268,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0393",
+    "delivered_on": "2026-04-09",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 36,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0394",
+    "delivered_on": "2026-04-09",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 211,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0395",
+    "delivered_on": "2026-04-09",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0396",
+    "delivered_on": "2026-04-09",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 186,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0397",
+    "delivered_on": "2026-04-10",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 90,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0398",
+    "delivered_on": "2026-04-10",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 241,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0399",
+    "delivered_on": "2026-04-10",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 193,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0400",
+    "delivered_on": "2026-04-10",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 78,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0401",
+    "delivered_on": "2026-04-11",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 278,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0402",
+    "delivered_on": "2026-04-11",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 101,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0403",
+    "delivered_on": "2026-04-11",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 146,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0404",
+    "delivered_on": "2026-04-11",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 282,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0405",
+    "delivered_on": "2026-04-12",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 289,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0406",
+    "delivered_on": "2026-04-12",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 276,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0407",
+    "delivered_on": "2026-04-12",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 264,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0408",
+    "delivered_on": "2026-04-12",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 44,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0409",
+    "delivered_on": "2026-04-13",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 104,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0410",
+    "delivered_on": "2026-04-13",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 171,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0411",
+    "delivered_on": "2026-04-13",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0412",
+    "delivered_on": "2026-04-13",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 283,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0413",
+    "delivered_on": "2026-04-14",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 270,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0414",
+    "delivered_on": "2026-04-14",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 166,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0415",
+    "delivered_on": "2026-04-14",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 134,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0416",
+    "delivered_on": "2026-04-14",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 262,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0417",
+    "delivered_on": "2026-04-15",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 109,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0418",
+    "delivered_on": "2026-04-15",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 146,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0419",
+    "delivered_on": "2026-04-15",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 108,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0420",
+    "delivered_on": "2026-04-15",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 235,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0421",
+    "delivered_on": "2026-04-16",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 257,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0422",
+    "delivered_on": "2026-04-16",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 50,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0423",
+    "delivered_on": "2026-04-16",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 36,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0424",
+    "delivered_on": "2026-04-16",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 90,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0425",
+    "delivered_on": "2026-04-17",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0426",
+    "delivered_on": "2026-04-17",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0427",
+    "delivered_on": "2026-04-17",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 144,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0428",
+    "delivered_on": "2026-04-17",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0429",
+    "delivered_on": "2026-04-18",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 286,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0430",
+    "delivered_on": "2026-04-18",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 35,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0431",
+    "delivered_on": "2026-04-18",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 201,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0432",
+    "delivered_on": "2026-04-18",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 245,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0433",
+    "delivered_on": "2026-04-19",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 174,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0434",
+    "delivered_on": "2026-04-19",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 193,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0435",
+    "delivered_on": "2026-04-19",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 175,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0436",
+    "delivered_on": "2026-04-19",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 138,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0437",
+    "delivered_on": "2026-04-20",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 21,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0438",
+    "delivered_on": "2026-04-20",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 298,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0439",
+    "delivered_on": "2026-04-20",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 177,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0440",
+    "delivered_on": "2026-04-20",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 289,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0441",
+    "delivered_on": "2026-04-21",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 266,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0442",
+    "delivered_on": "2026-04-21",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 54,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0443",
+    "delivered_on": "2026-04-21",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0444",
+    "delivered_on": "2026-04-21",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 228,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0445",
+    "delivered_on": "2026-04-22",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 231,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0446",
+    "delivered_on": "2026-04-22",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 132,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0447",
+    "delivered_on": "2026-04-22",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0448",
+    "delivered_on": "2026-04-22",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 253,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0449",
+    "delivered_on": "2026-04-23",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 48,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0450",
+    "delivered_on": "2026-04-23",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 19,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0451",
+    "delivered_on": "2026-04-23",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 227,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0452",
+    "delivered_on": "2026-04-23",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 119,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0453",
+    "delivered_on": "2026-04-24",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 152,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0454",
+    "delivered_on": "2026-04-24",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 275,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0455",
+    "delivered_on": "2026-04-24",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 131,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0456",
+    "delivered_on": "2026-04-24",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 148,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0457",
+    "delivered_on": "2026-04-25",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 108,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0458",
+    "delivered_on": "2026-04-25",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 273,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0459",
+    "delivered_on": "2026-04-25",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0460",
+    "delivered_on": "2026-04-25",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 208,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0461",
+    "delivered_on": "2026-04-26",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 288,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0462",
+    "delivered_on": "2026-04-26",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 233,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0463",
+    "delivered_on": "2026-04-26",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 81,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0464",
+    "delivered_on": "2026-04-26",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 211,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0465",
+    "delivered_on": "2026-04-27",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 100,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0466",
+    "delivered_on": "2026-04-27",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 224,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0467",
+    "delivered_on": "2026-04-27",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 256,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0468",
+    "delivered_on": "2026-04-27",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 99,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0469",
+    "delivered_on": "2026-04-28",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 220,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0470",
+    "delivered_on": "2026-04-28",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 77,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0471",
+    "delivered_on": "2026-04-28",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 38,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0472",
+    "delivered_on": "2026-04-28",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 107,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0473",
+    "delivered_on": "2026-04-29",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 228,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0474",
+    "delivered_on": "2026-04-29",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 156,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0475",
+    "delivered_on": "2026-04-29",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0476",
+    "delivered_on": "2026-04-29",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 153,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0477",
+    "delivered_on": "2026-04-30",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 271,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0478",
+    "delivered_on": "2026-04-30",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0479",
+    "delivered_on": "2026-04-30",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 286,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0480",
+    "delivered_on": "2026-04-30",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 264,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0481",
+    "delivered_on": "2026-05-01",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 83,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0482",
+    "delivered_on": "2026-05-01",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 230,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0483",
+    "delivered_on": "2026-05-01",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0484",
+    "delivered_on": "2026-05-01",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 26,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0485",
+    "delivered_on": "2026-05-02",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0486",
+    "delivered_on": "2026-05-02",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 15,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0487",
+    "delivered_on": "2026-05-02",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 255,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0488",
+    "delivered_on": "2026-05-02",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 180,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0489",
+    "delivered_on": "2026-05-03",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 124,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0490",
+    "delivered_on": "2026-05-03",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 102,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0491",
+    "delivered_on": "2026-05-03",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0492",
+    "delivered_on": "2026-05-03",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 118,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0493",
+    "delivered_on": "2026-05-04",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 218,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0494",
+    "delivered_on": "2026-05-04",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 208,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0495",
+    "delivered_on": "2026-05-04",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 16,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0496",
+    "delivered_on": "2026-05-04",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 216,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0497",
+    "delivered_on": "2026-05-05",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 67,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0498",
+    "delivered_on": "2026-05-05",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 138,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0499",
+    "delivered_on": "2026-05-05",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 206,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0500",
+    "delivered_on": "2026-05-05",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 245,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0501",
+    "delivered_on": "2026-05-06",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 89,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0502",
+    "delivered_on": "2026-05-06",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 94,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0503",
+    "delivered_on": "2026-05-06",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0504",
+    "delivered_on": "2026-05-06",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 177,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0505",
+    "delivered_on": "2026-05-07",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 115,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0506",
+    "delivered_on": "2026-05-07",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 216,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0507",
+    "delivered_on": "2026-05-07",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 76,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0508",
+    "delivered_on": "2026-05-07",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 125,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0509",
+    "delivered_on": "2026-05-08",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0510",
+    "delivered_on": "2026-05-08",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 61,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0511",
+    "delivered_on": "2026-05-08",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 173,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0512",
+    "delivered_on": "2026-05-08",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 174,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0513",
+    "delivered_on": "2026-05-09",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 97,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0514",
+    "delivered_on": "2026-05-09",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 282,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0515",
+    "delivered_on": "2026-05-09",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 129,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0516",
+    "delivered_on": "2026-05-09",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 94,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0517",
+    "delivered_on": "2026-05-10",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0518",
+    "delivered_on": "2026-05-10",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 19,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0519",
+    "delivered_on": "2026-05-10",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 38,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0520",
+    "delivered_on": "2026-05-10",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 201,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0521",
+    "delivered_on": "2026-05-11",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 214,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0522",
+    "delivered_on": "2026-05-11",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 291,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0523",
+    "delivered_on": "2026-05-11",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 45,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0524",
+    "delivered_on": "2026-05-11",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 149,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0525",
+    "delivered_on": "2026-05-12",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 148,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0526",
+    "delivered_on": "2026-05-12",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 255,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0527",
+    "delivered_on": "2026-05-12",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 135,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0528",
+    "delivered_on": "2026-05-12",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 46,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0529",
+    "delivered_on": "2026-05-13",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 88,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0530",
+    "delivered_on": "2026-05-13",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 67,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0531",
+    "delivered_on": "2026-05-13",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 92,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0532",
+    "delivered_on": "2026-05-13",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 44,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0533",
+    "delivered_on": "2026-05-14",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 261,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0534",
+    "delivered_on": "2026-05-14",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 226,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0535",
+    "delivered_on": "2026-05-14",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 230,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0536",
+    "delivered_on": "2026-05-14",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 22,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0537",
+    "delivered_on": "2026-05-15",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 114,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0538",
+    "delivered_on": "2026-05-15",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 295,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0539",
+    "delivered_on": "2026-05-15",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 160,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0540",
+    "delivered_on": "2026-05-15",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0541",
+    "delivered_on": "2026-05-16",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 183,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0542",
+    "delivered_on": "2026-05-16",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 30,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0543",
+    "delivered_on": "2026-05-16",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 136,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0544",
+    "delivered_on": "2026-05-16",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 189,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0545",
+    "delivered_on": "2026-05-17",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0546",
+    "delivered_on": "2026-05-17",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 291,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0547",
+    "delivered_on": "2026-05-17",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 264,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0548",
+    "delivered_on": "2026-05-17",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 116,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0549",
+    "delivered_on": "2026-05-18",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0550",
+    "delivered_on": "2026-05-18",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 68,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0551",
+    "delivered_on": "2026-05-18",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 125,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0552",
+    "delivered_on": "2026-05-18",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 87,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0553",
+    "delivered_on": "2026-05-19",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 251,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0554",
+    "delivered_on": "2026-05-19",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 121,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0555",
+    "delivered_on": "2026-05-19",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 72,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0556",
+    "delivered_on": "2026-05-19",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 152,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0557",
+    "delivered_on": "2026-05-20",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 80,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0558",
+    "delivered_on": "2026-05-20",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0559",
+    "delivered_on": "2026-05-20",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 28,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0560",
+    "delivered_on": "2026-05-20",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 15,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0561",
+    "delivered_on": "2026-05-21",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 129,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0562",
+    "delivered_on": "2026-05-21",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0563",
+    "delivered_on": "2026-05-21",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 173,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0564",
+    "delivered_on": "2026-05-21",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 87,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0565",
+    "delivered_on": "2026-05-22",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 203,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0566",
+    "delivered_on": "2026-05-22",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 136,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0567",
+    "delivered_on": "2026-05-22",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 232,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0568",
+    "delivered_on": "2026-05-22",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 241,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0569",
+    "delivered_on": "2026-05-23",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 183,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0570",
+    "delivered_on": "2026-05-23",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 197,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0571",
+    "delivered_on": "2026-05-23",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 37,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0572",
+    "delivered_on": "2026-05-23",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0573",
+    "delivered_on": "2026-05-24",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 48,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0574",
+    "delivered_on": "2026-05-24",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 92,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0575",
+    "delivered_on": "2026-05-24",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 277,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0576",
+    "delivered_on": "2026-05-24",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 91,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0577",
+    "delivered_on": "2026-05-25",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 82,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0578",
+    "delivered_on": "2026-05-25",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 49,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0579",
+    "delivered_on": "2026-05-25",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 291,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0580",
+    "delivered_on": "2026-05-25",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 53,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0581",
+    "delivered_on": "2026-05-26",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 244,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0582",
+    "delivered_on": "2026-05-26",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 277,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0583",
+    "delivered_on": "2026-05-26",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 32,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0584",
+    "delivered_on": "2026-05-26",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 54,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0585",
+    "delivered_on": "2026-05-27",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0586",
+    "delivered_on": "2026-05-27",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0587",
+    "delivered_on": "2026-05-27",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 44,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0588",
+    "delivered_on": "2026-05-27",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 282,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0589",
+    "delivered_on": "2026-05-28",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 196,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0590",
+    "delivered_on": "2026-05-28",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 62,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0591",
+    "delivered_on": "2026-05-28",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 181,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0592",
+    "delivered_on": "2026-05-28",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 166,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0593",
+    "delivered_on": "2026-05-29",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 91,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0594",
+    "delivered_on": "2026-05-29",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 160,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0595",
+    "delivered_on": "2026-05-29",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 82,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0596",
+    "delivered_on": "2026-05-29",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 158,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0597",
+    "delivered_on": "2026-05-30",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 240,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0598",
+    "delivered_on": "2026-05-30",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 289,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0599",
+    "delivered_on": "2026-05-30",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 41,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0600",
+    "delivered_on": "2026-05-30",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 163,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0601",
+    "delivered_on": "2026-05-31",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 184,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0602",
+    "delivered_on": "2026-05-31",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 129,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0603",
+    "delivered_on": "2026-05-31",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 120,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0604",
+    "delivered_on": "2026-05-31",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 132,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0605",
+    "delivered_on": "2026-06-01",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 160,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0606",
+    "delivered_on": "2026-06-01",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 194,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0607",
+    "delivered_on": "2026-06-01",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 271,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0608",
+    "delivered_on": "2026-06-01",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 65,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0609",
+    "delivered_on": "2026-06-02",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 135,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0610",
+    "delivered_on": "2026-06-02",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 265,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0611",
+    "delivered_on": "2026-06-02",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 29,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0612",
+    "delivered_on": "2026-06-02",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 146,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0613",
+    "delivered_on": "2026-06-03",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 31,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0614",
+    "delivered_on": "2026-06-03",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 56,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0615",
+    "delivered_on": "2026-06-03",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 56,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0616",
+    "delivered_on": "2026-06-03",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 187,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0617",
+    "delivered_on": "2026-06-04",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 82,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0618",
+    "delivered_on": "2026-06-04",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 63,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0619",
+    "delivered_on": "2026-06-04",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 65,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0620",
+    "delivered_on": "2026-06-04",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 252,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0621",
+    "delivered_on": "2026-06-05",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 34,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0622",
+    "delivered_on": "2026-06-05",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0623",
+    "delivered_on": "2026-06-05",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 255,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0624",
+    "delivered_on": "2026-06-05",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 146,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0625",
+    "delivered_on": "2026-06-06",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 50,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0626",
+    "delivered_on": "2026-06-06",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 252,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0627",
+    "delivered_on": "2026-06-06",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0628",
+    "delivered_on": "2026-06-06",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 16,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0629",
+    "delivered_on": "2026-06-07",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 254,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0630",
+    "delivered_on": "2026-06-07",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 268,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0631",
+    "delivered_on": "2026-06-07",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 127,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0632",
+    "delivered_on": "2026-06-07",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 125,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0633",
+    "delivered_on": "2026-06-08",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 134,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0634",
+    "delivered_on": "2026-06-08",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 89,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0635",
+    "delivered_on": "2026-06-08",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 35,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0636",
+    "delivered_on": "2026-06-08",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 276,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0637",
+    "delivered_on": "2026-06-09",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 140,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0638",
+    "delivered_on": "2026-06-09",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 244,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0639",
+    "delivered_on": "2026-06-09",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0640",
+    "delivered_on": "2026-06-09",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 206,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0641",
+    "delivered_on": "2026-06-10",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 146,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0642",
+    "delivered_on": "2026-06-10",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 93,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0643",
+    "delivered_on": "2026-06-10",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 114,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0644",
+    "delivered_on": "2026-06-10",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 239,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0645",
+    "delivered_on": "2026-06-11",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0646",
+    "delivered_on": "2026-06-11",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 96,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0647",
+    "delivered_on": "2026-06-11",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 78,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0648",
+    "delivered_on": "2026-06-11",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 245,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0649",
+    "delivered_on": "2026-06-12",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 21,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0650",
+    "delivered_on": "2026-06-12",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 252,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0651",
+    "delivered_on": "2026-06-12",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 188,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0652",
+    "delivered_on": "2026-06-12",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 221,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0653",
+    "delivered_on": "2026-06-13",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0654",
+    "delivered_on": "2026-06-13",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 249,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0655",
+    "delivered_on": "2026-06-13",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 71,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0656",
+    "delivered_on": "2026-06-13",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 85,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0657",
+    "delivered_on": "2026-06-14",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 283,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0658",
+    "delivered_on": "2026-06-14",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 260,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0659",
+    "delivered_on": "2026-06-14",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 185,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0660",
+    "delivered_on": "2026-06-14",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 139,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0661",
+    "delivered_on": "2026-06-15",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 184,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0662",
+    "delivered_on": "2026-06-15",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 297,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0663",
+    "delivered_on": "2026-06-15",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 46,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0664",
+    "delivered_on": "2026-06-15",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 253,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0665",
+    "delivered_on": "2026-06-16",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 207,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0666",
+    "delivered_on": "2026-06-16",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 153,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0667",
+    "delivered_on": "2026-06-16",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 115,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0668",
+    "delivered_on": "2026-06-16",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 91,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0669",
+    "delivered_on": "2026-06-17",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 211,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0670",
+    "delivered_on": "2026-06-17",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 37,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0671",
+    "delivered_on": "2026-06-17",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 271,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0672",
+    "delivered_on": "2026-06-17",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 48,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0673",
+    "delivered_on": "2026-06-18",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0674",
+    "delivered_on": "2026-06-18",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 205,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0675",
+    "delivered_on": "2026-06-18",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 16,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0676",
+    "delivered_on": "2026-06-18",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0677",
+    "delivered_on": "2026-06-19",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 31,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0678",
+    "delivered_on": "2026-06-19",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 104,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0679",
+    "delivered_on": "2026-06-19",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 112,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0680",
+    "delivered_on": "2026-06-19",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 238,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0681",
+    "delivered_on": "2026-06-20",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 272,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0682",
+    "delivered_on": "2026-06-20",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 95,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0683",
+    "delivered_on": "2026-06-20",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 96,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0684",
+    "delivered_on": "2026-06-20",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 195,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0685",
+    "delivered_on": "2026-06-21",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 245,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0686",
+    "delivered_on": "2026-06-21",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0687",
+    "delivered_on": "2026-06-21",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 145,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0688",
+    "delivered_on": "2026-06-21",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 39,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0689",
+    "delivered_on": "2026-06-22",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 132,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0690",
+    "delivered_on": "2026-06-22",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0691",
+    "delivered_on": "2026-06-22",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 54,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0692",
+    "delivered_on": "2026-06-22",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 245,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0693",
+    "delivered_on": "2026-06-23",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0694",
+    "delivered_on": "2026-06-23",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 56,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0695",
+    "delivered_on": "2026-06-23",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 170,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0696",
+    "delivered_on": "2026-06-23",
+    "discount_rate": 0.27,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 59,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0697",
+    "delivered_on": "2026-06-24",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 154,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0698",
+    "delivered_on": "2026-06-24",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 93,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0699",
+    "delivered_on": "2026-06-24",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 33,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0700",
+    "delivered_on": "2026-06-24",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 263,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0701",
+    "delivered_on": "2026-06-25",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 31,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0702",
+    "delivered_on": "2026-06-25",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 285,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0703",
+    "delivered_on": "2026-06-25",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0704",
+    "delivered_on": "2026-06-25",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 170,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0705",
+    "delivered_on": "2026-06-26",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 202,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0706",
+    "delivered_on": "2026-06-26",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 72,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0707",
+    "delivered_on": "2026-06-26",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 39,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0708",
+    "delivered_on": "2026-06-26",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 278,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0709",
+    "delivered_on": "2026-06-27",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 79,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0710",
+    "delivered_on": "2026-06-27",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 256,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0711",
+    "delivered_on": "2026-06-27",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 174,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0712",
+    "delivered_on": "2026-06-27",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 135,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0713",
+    "delivered_on": "2026-06-28",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 234,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0714",
+    "delivered_on": "2026-06-28",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 131,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0715",
+    "delivered_on": "2026-06-28",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 142,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0716",
+    "delivered_on": "2026-06-28",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 72,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0717",
+    "delivered_on": "2026-06-29",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 176,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0718",
+    "delivered_on": "2026-06-29",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 82,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0719",
+    "delivered_on": "2026-06-29",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 133,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0720",
+    "delivered_on": "2026-06-29",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0721",
+    "delivered_on": "2026-06-30",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 235,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0722",
+    "delivered_on": "2026-06-30",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 147,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0723",
+    "delivered_on": "2026-06-30",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0724",
+    "delivered_on": "2026-06-30",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 250,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0725",
+    "delivered_on": "2026-07-01",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 227,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0726",
+    "delivered_on": "2026-07-01",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 199,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0727",
+    "delivered_on": "2026-07-01",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 42,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0728",
+    "delivered_on": "2026-07-01",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 268,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0729",
+    "delivered_on": "2026-07-02",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 140,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0730",
+    "delivered_on": "2026-07-02",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 224,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0731",
+    "delivered_on": "2026-07-02",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 182,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0732",
+    "delivered_on": "2026-07-02",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 118,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0733",
+    "delivered_on": "2026-07-03",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 197,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0734",
+    "delivered_on": "2026-07-03",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 287,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0735",
+    "delivered_on": "2026-07-03",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 117,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0736",
+    "delivered_on": "2026-07-03",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 270,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0737",
+    "delivered_on": "2026-07-04",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 205,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0738",
+    "delivered_on": "2026-07-04",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 34,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0739",
+    "delivered_on": "2026-07-04",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 131,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0740",
+    "delivered_on": "2026-07-04",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 96,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0741",
+    "delivered_on": "2026-07-05",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 165,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0742",
+    "delivered_on": "2026-07-05",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0743",
+    "delivered_on": "2026-07-05",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 18,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0744",
+    "delivered_on": "2026-07-05",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 280,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0745",
+    "delivered_on": "2026-07-06",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 112,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0746",
+    "delivered_on": "2026-07-06",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 119,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0747",
+    "delivered_on": "2026-07-06",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 95,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0748",
+    "delivered_on": "2026-07-06",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 178,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0749",
+    "delivered_on": "2026-07-07",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 143,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0750",
+    "delivered_on": "2026-07-07",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 233,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0751",
+    "delivered_on": "2026-07-07",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 134,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0752",
+    "delivered_on": "2026-07-07",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0753",
+    "delivered_on": "2026-07-08",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 248,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0754",
+    "delivered_on": "2026-07-08",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 24,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0755",
+    "delivered_on": "2026-07-08",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0756",
+    "delivered_on": "2026-07-08",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 50,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0757",
+    "delivered_on": "2026-07-09",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 119,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0758",
+    "delivered_on": "2026-07-09",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 226,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0759",
+    "delivered_on": "2026-07-09",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 57,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0760",
+    "delivered_on": "2026-07-09",
+    "discount_rate": 0.6,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 157,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0761",
+    "delivered_on": "2026-07-10",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 197,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0762",
+    "delivered_on": "2026-07-10",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 172,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0763",
+    "delivered_on": "2026-07-10",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 256,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0764",
+    "delivered_on": "2026-07-10",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 21,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0765",
+    "delivered_on": "2026-07-11",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 200,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0766",
+    "delivered_on": "2026-07-11",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 300,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0767",
+    "delivered_on": "2026-07-11",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 215,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0768",
+    "delivered_on": "2026-07-11",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 293,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0769",
+    "delivered_on": "2026-07-12",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 116,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0770",
+    "delivered_on": "2026-07-12",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 251,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0771",
+    "delivered_on": "2026-07-12",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 45,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0772",
+    "delivered_on": "2026-07-12",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 118,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0773",
+    "delivered_on": "2026-07-13",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 296,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0774",
+    "delivered_on": "2026-07-13",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 283,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0775",
+    "delivered_on": "2026-07-13",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 32,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0776",
+    "delivered_on": "2026-07-13",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 128,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0777",
+    "delivered_on": "2026-07-14",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 285,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0778",
+    "delivered_on": "2026-07-14",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 21,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0779",
+    "delivered_on": "2026-07-14",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 191,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0780",
+    "delivered_on": "2026-07-14",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0781",
+    "delivered_on": "2026-07-15",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 71,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0782",
+    "delivered_on": "2026-07-15",
+    "discount_rate": 0.46,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 266,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0783",
+    "delivered_on": "2026-07-15",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 190,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0784",
+    "delivered_on": "2026-07-15",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 148,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0785",
+    "delivered_on": "2026-07-16",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 153,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0786",
+    "delivered_on": "2026-07-16",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 69,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0787",
+    "delivered_on": "2026-07-16",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 138,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0788",
+    "delivered_on": "2026-07-16",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 60,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0789",
+    "delivered_on": "2026-07-17",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 163,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0790",
+    "delivered_on": "2026-07-17",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 288,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0791",
+    "delivered_on": "2026-07-17",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 240,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0792",
+    "delivered_on": "2026-07-17",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0793",
+    "delivered_on": "2026-07-18",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0794",
+    "delivered_on": "2026-07-18",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 86,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0795",
+    "delivered_on": "2026-07-18",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 184,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0796",
+    "delivered_on": "2026-07-18",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 61,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0797",
+    "delivered_on": "2026-07-19",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 152,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0798",
+    "delivered_on": "2026-07-19",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 228,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0799",
+    "delivered_on": "2026-07-19",
+    "discount_rate": 0.23,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 57,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0800",
+    "delivered_on": "2026-07-19",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 165,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0801",
+    "delivered_on": "2026-07-20",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 247,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0802",
+    "delivered_on": "2026-07-20",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 248,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0803",
+    "delivered_on": "2026-07-20",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 171,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0804",
+    "delivered_on": "2026-07-20",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 48,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0805",
+    "delivered_on": "2026-07-21",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 257,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0806",
+    "delivered_on": "2026-07-21",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 279,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0807",
+    "delivered_on": "2026-07-21",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 166,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0808",
+    "delivered_on": "2026-07-21",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 92,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0809",
+    "delivered_on": "2026-07-22",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 79,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0810",
+    "delivered_on": "2026-07-22",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 266,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0811",
+    "delivered_on": "2026-07-22",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0812",
+    "delivered_on": "2026-07-22",
+    "discount_rate": 0.12,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 159,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0813",
+    "delivered_on": "2026-07-23",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 251,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0814",
+    "delivered_on": "2026-07-23",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 58,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0815",
+    "delivered_on": "2026-07-23",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 262,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0816",
+    "delivered_on": "2026-07-23",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 110,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0817",
+    "delivered_on": "2026-07-24",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 62,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0818",
+    "delivered_on": "2026-07-24",
+    "discount_rate": 0.36,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 72,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0819",
+    "delivered_on": "2026-07-24",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 145,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0820",
+    "delivered_on": "2026-07-24",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 251,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0821",
+    "delivered_on": "2026-07-25",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0822",
+    "delivered_on": "2026-07-25",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 241,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0823",
+    "delivered_on": "2026-07-25",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 121,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0824",
+    "delivered_on": "2026-07-25",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 215,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0825",
+    "delivered_on": "2026-07-26",
+    "discount_rate": 0.45,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 290,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0826",
+    "delivered_on": "2026-07-26",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 23,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0827",
+    "delivered_on": "2026-07-26",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 188,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0828",
+    "delivered_on": "2026-07-26",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 221,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0829",
+    "delivered_on": "2026-07-27",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 227,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0830",
+    "delivered_on": "2026-07-27",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 83,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0831",
+    "delivered_on": "2026-07-27",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 248,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0832",
+    "delivered_on": "2026-07-27",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 254,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0833",
+    "delivered_on": "2026-07-28",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 263,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0834",
+    "delivered_on": "2026-07-28",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 35,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0835",
+    "delivered_on": "2026-07-28",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 277,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0836",
+    "delivered_on": "2026-07-28",
+    "discount_rate": 0.54,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0837",
+    "delivered_on": "2026-07-29",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 43,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0838",
+    "delivered_on": "2026-07-29",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 260,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0839",
+    "delivered_on": "2026-07-29",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 171,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0840",
+    "delivered_on": "2026-07-29",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 33,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0841",
+    "delivered_on": "2026-07-30",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 85,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0842",
+    "delivered_on": "2026-07-30",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0843",
+    "delivered_on": "2026-07-30",
+    "discount_rate": 0.3,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0844",
+    "delivered_on": "2026-07-30",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 75,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0845",
+    "delivered_on": "2026-07-31",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 59,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0846",
+    "delivered_on": "2026-07-31",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 255,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0847",
+    "delivered_on": "2026-07-31",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 273,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0848",
+    "delivered_on": "2026-07-31",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 101,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0849",
+    "delivered_on": "2026-08-01",
+    "discount_rate": 0.48,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 202,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0850",
+    "delivered_on": "2026-08-01",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 148,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0851",
+    "delivered_on": "2026-08-01",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 222,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0852",
+    "delivered_on": "2026-08-01",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 289,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0853",
+    "delivered_on": "2026-08-02",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 192,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0854",
+    "delivered_on": "2026-08-02",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 39,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0855",
+    "delivered_on": "2026-08-02",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 69,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0856",
+    "delivered_on": "2026-08-02",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 42,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0857",
+    "delivered_on": "2026-08-03",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 53,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0858",
+    "delivered_on": "2026-08-03",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 108,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0859",
+    "delivered_on": "2026-08-03",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 175,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0860",
+    "delivered_on": "2026-08-03",
+    "discount_rate": 0.57,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 45,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0861",
+    "delivered_on": "2026-08-04",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 255,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0862",
+    "delivered_on": "2026-08-04",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 122,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0863",
+    "delivered_on": "2026-08-04",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 80,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0864",
+    "delivered_on": "2026-08-04",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 286,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0865",
+    "delivered_on": "2026-08-05",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 55,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0866",
+    "delivered_on": "2026-08-05",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 250,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0867",
+    "delivered_on": "2026-08-05",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 124,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0868",
+    "delivered_on": "2026-08-05",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 137,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0869",
+    "delivered_on": "2026-08-06",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 107,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0870",
+    "delivered_on": "2026-08-06",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 151,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0871",
+    "delivered_on": "2026-08-06",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 239,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0872",
+    "delivered_on": "2026-08-06",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 132,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0873",
+    "delivered_on": "2026-08-07",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 157,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0874",
+    "delivered_on": "2026-08-07",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0875",
+    "delivered_on": "2026-08-07",
+    "discount_rate": 0.05,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 49,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0876",
+    "delivered_on": "2026-08-07",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 20,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0877",
+    "delivered_on": "2026-08-08",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 133,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0878",
+    "delivered_on": "2026-08-08",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 72,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0879",
+    "delivered_on": "2026-08-08",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 163,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0880",
+    "delivered_on": "2026-08-08",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 147,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0881",
+    "delivered_on": "2026-08-09",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 241,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0882",
+    "delivered_on": "2026-08-09",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 261,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0883",
+    "delivered_on": "2026-08-09",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 79,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0884",
+    "delivered_on": "2026-08-09",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 79,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0885",
+    "delivered_on": "2026-08-10",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 205,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0886",
+    "delivered_on": "2026-08-10",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 251,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0887",
+    "delivered_on": "2026-08-10",
+    "discount_rate": 0.19,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 66,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0888",
+    "delivered_on": "2026-08-10",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 61,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0889",
+    "delivered_on": "2026-08-11",
+    "discount_rate": 0.41,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 135,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0890",
+    "delivered_on": "2026-08-11",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 152,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0891",
+    "delivered_on": "2026-08-11",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 210,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0892",
+    "delivered_on": "2026-08-11",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 299,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0893",
+    "delivered_on": "2026-08-12",
+    "discount_rate": 0.35,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 25,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0894",
+    "delivered_on": "2026-08-12",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 50,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0895",
+    "delivered_on": "2026-08-12",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 203,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0896",
+    "delivered_on": "2026-08-12",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 226,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0897",
+    "delivered_on": "2026-08-13",
+    "discount_rate": 0.49,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 243,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0898",
+    "delivered_on": "2026-08-13",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 300,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0899",
+    "delivered_on": "2026-08-13",
+    "discount_rate": 0.44,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 244,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0900",
+    "delivered_on": "2026-08-13",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 269,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0901",
+    "delivered_on": "2026-08-14",
+    "discount_rate": 0.55,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 196,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0902",
+    "delivered_on": "2026-08-14",
+    "discount_rate": 0.32,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 111,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0903",
+    "delivered_on": "2026-08-14",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 177,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0904",
+    "delivered_on": "2026-08-14",
+    "discount_rate": 0.17,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 136,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0905",
+    "delivered_on": "2026-08-15",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 237,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0906",
+    "delivered_on": "2026-08-15",
+    "discount_rate": 0.42,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 225,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0907",
+    "delivered_on": "2026-08-15",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 73,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0908",
+    "delivered_on": "2026-08-15",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 277,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0909",
+    "delivered_on": "2026-08-16",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 210,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0910",
+    "delivered_on": "2026-08-16",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 162,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0911",
+    "delivered_on": "2026-08-16",
+    "discount_rate": 0.2,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 67,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0912",
+    "delivered_on": "2026-08-16",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 141,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0913",
+    "delivered_on": "2026-08-17",
+    "discount_rate": 0.08,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 64,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0914",
+    "delivered_on": "2026-08-17",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 260,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0915",
+    "delivered_on": "2026-08-17",
+    "discount_rate": 0.43,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 51,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0916",
+    "delivered_on": "2026-08-17",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 157,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0917",
+    "delivered_on": "2026-08-18",
+    "discount_rate": 0.14,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 192,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0918",
+    "delivered_on": "2026-08-18",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 103,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0919",
+    "delivered_on": "2026-08-18",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 72,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0920",
+    "delivered_on": "2026-08-18",
+    "discount_rate": 0.16,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 274,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0921",
+    "delivered_on": "2026-08-19",
+    "discount_rate": 0.34,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 179,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0922",
+    "delivered_on": "2026-08-19",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 250,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0923",
+    "delivered_on": "2026-08-19",
+    "discount_rate": 0.26,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 171,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0924",
+    "delivered_on": "2026-08-19",
+    "discount_rate": 0.21,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 41,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0925",
+    "delivered_on": "2026-08-20",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 188,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0926",
+    "delivered_on": "2026-08-20",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 27,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0927",
+    "delivered_on": "2026-08-20",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 212,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0928",
+    "delivered_on": "2026-08-20",
+    "discount_rate": 0.29,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 25,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0929",
+    "delivered_on": "2026-08-21",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 53,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0930",
+    "delivered_on": "2026-08-21",
+    "discount_rate": 0.58,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 202,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0931",
+    "delivered_on": "2026-08-21",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 113,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0932",
+    "delivered_on": "2026-08-21",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 50,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0933",
+    "delivered_on": "2026-08-22",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 249,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0934",
+    "delivered_on": "2026-08-22",
+    "discount_rate": 0.0,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 126,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0935",
+    "delivered_on": "2026-08-22",
+    "discount_rate": 0.51,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 158,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0936",
+    "delivered_on": "2026-08-22",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 99,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0937",
+    "delivered_on": "2026-08-23",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 65,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0938",
+    "delivered_on": "2026-08-23",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 126,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0939",
+    "delivered_on": "2026-08-23",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 54,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0940",
+    "delivered_on": "2026-08-23",
+    "discount_rate": 0.37,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 125,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0941",
+    "delivered_on": "2026-08-24",
+    "discount_rate": 0.28,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 120,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0942",
+    "delivered_on": "2026-08-24",
+    "discount_rate": 0.1,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 92,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0943",
+    "delivered_on": "2026-08-24",
+    "discount_rate": 0.18,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 205,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0944",
+    "delivered_on": "2026-08-24",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 295,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0945",
+    "delivered_on": "2026-08-25",
+    "discount_rate": 0.04,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 60,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0946",
+    "delivered_on": "2026-08-25",
+    "discount_rate": 0.31,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 175,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0947",
+    "delivered_on": "2026-08-25",
+    "discount_rate": 0.39,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 53,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0948",
+    "delivered_on": "2026-08-25",
+    "discount_rate": 0.5,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 68,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0949",
+    "delivered_on": "2026-08-26",
+    "discount_rate": 0.53,
+    "delivery_delay_days": 1,
+    "fragile": 0,
+    "item_price_eur": 261,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0950",
+    "delivered_on": "2026-08-26",
+    "discount_rate": 0.22,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 168,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0951",
+    "delivered_on": "2026-08-26",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 257,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0952",
+    "delivered_on": "2026-08-26",
+    "discount_rate": 0.06,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 231,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0953",
+    "delivered_on": "2026-08-27",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 153,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0954",
+    "delivered_on": "2026-08-27",
+    "discount_rate": 0.07,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 113,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0955",
+    "delivered_on": "2026-08-27",
+    "discount_rate": 0.11,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 21,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0956",
+    "delivered_on": "2026-08-27",
+    "discount_rate": 0.56,
+    "delivery_delay_days": 8,
+    "fragile": 0,
+    "item_price_eur": 227,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0957",
+    "delivered_on": "2026-08-28",
+    "discount_rate": 0.02,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 63,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0958",
+    "delivered_on": "2026-08-28",
+    "discount_rate": 0.09,
+    "delivery_delay_days": 8,
+    "fragile": 1,
+    "item_price_eur": 83,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0959",
+    "delivered_on": "2026-08-28",
+    "discount_rate": 0.52,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 210,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0960",
+    "delivered_on": "2026-08-28",
+    "discount_rate": 0.25,
+    "delivery_delay_days": 3,
+    "fragile": 1,
+    "item_price_eur": 264,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0961",
+    "delivered_on": "2026-08-29",
+    "discount_rate": 0.47,
+    "delivery_delay_days": 5,
+    "fragile": 0,
+    "item_price_eur": 27,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0962",
+    "delivered_on": "2026-08-29",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 5,
+    "fragile": 1,
+    "item_price_eur": 105,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0963",
+    "delivered_on": "2026-08-29",
+    "discount_rate": 0.15,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 125,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0964",
+    "delivered_on": "2026-08-29",
+    "discount_rate": 0.38,
+    "delivery_delay_days": 3,
+    "fragile": 0,
+    "item_price_eur": 57,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0965",
+    "delivered_on": "2026-08-30",
+    "discount_rate": 0.24,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 77,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0966",
+    "delivered_on": "2026-08-30",
+    "discount_rate": 0.01,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 125,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0967",
+    "delivered_on": "2026-08-30",
+    "discount_rate": 0.03,
+    "delivery_delay_days": 0,
+    "fragile": 1,
+    "item_price_eur": 173,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0968",
+    "delivered_on": "2026-08-30",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 203,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0969",
+    "delivered_on": "2026-08-31",
+    "discount_rate": 0.13,
+    "delivery_delay_days": 1,
+    "fragile": 1,
+    "item_price_eur": 81,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0970",
+    "delivered_on": "2026-08-31",
+    "discount_rate": 0.4,
+    "delivery_delay_days": 2,
+    "fragile": 0,
+    "item_price_eur": 35,
+    "returned_30d": 0
+  },
+  {
+    "order_id": "O0971",
+    "delivered_on": "2026-08-31",
+    "discount_rate": 0.33,
+    "delivery_delay_days": 0,
+    "fragile": 0,
+    "item_price_eur": 89,
+    "returned_30d": 1
+  },
+  {
+    "order_id": "O0972",
+    "delivered_on": "2026-08-31",
+    "discount_rate": 0.59,
+    "delivery_delay_days": 2,
+    "fragile": 1,
+    "item_price_eur": 20,
+    "returned_30d": 0
+  }
+]
